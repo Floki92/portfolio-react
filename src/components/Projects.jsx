@@ -8,7 +8,7 @@ function Projects() {
       id: 1,
       title: "E-Commerce Dashboard",
       description: "Modern dashboard with React and Material-UI featuring real-time analytics and sales tracking.",
-      image: "./images/ecommerce.jpg",
+      image: "images/ecommerce.jpg",
       category: ["react", "frontend"],
       technologies: ["React", "Material-UI", "Chart.js"],
       liveLink: "https://example.com",
@@ -18,7 +18,7 @@ function Projects() {
       id: 2,
       title: "Mobile Apps",
       description: "Responsive portfolio website with modern animations and dark theme.",
-      image: "./images/mobile-app2.webp",
+      image: "images/mobile-app2.webp",
       category: ["frontend", "ui"],
       technologies: ["React", "Tailwind CSS", "Framer Motion"],
       liveLink: "https://example.com",
@@ -28,7 +28,7 @@ function Projects() {
       id: 3,
       title: "Social Media App",
       description: "Full-stack social media platform with real-time messaging and post updates.",
-      image: "./images/social.webp",
+      image: "images/social.webp",
       category: ["fullstack", "react"],
       technologies: ["React", "Node.js", "MongoDB"],
       liveLink: "https://example.com",
@@ -38,7 +38,7 @@ function Projects() {
       id: 4,
       title: "Portfolio Website",
       description: "Responsive portfolio website with modern animations and dark theme.",
-      image: "./images/portfolio.jpg",
+      image: "images/portfolio.jpg",
       category: ["frontend", "ui"],
       technologies: ["React", "Tailwind CSS", "Framer Motion"],
       liveLink: "https://example.com",
@@ -48,7 +48,7 @@ function Projects() {
       id: 5,
       title: "Mobile Apps",
       description: "Responsive portfolio website with modern animations and dark theme.",
-      image: "./images/mobile-app.webp",
+      image: "images/mobile-app.webp",
       category: ["frontend", "ui"],
       technologies: ["React", "Tailwind CSS", "Framer Motion"],
       liveLink: "https://example.com",
@@ -58,7 +58,7 @@ function Projects() {
       id: 6,
       title: "Mobile Apps",
       description: "Responsive portfolio website with modern animations and dark theme.",
-      image: "./images/mobile-app2.webp",
+      image: "images/mobile-app2.webp",
       category: ["frontend", "ui"],
       technologies: ["React", "Tailwind CSS", "Framer Motion"],
       liveLink: "https://example.com",
@@ -177,3 +177,4 @@ function Projects() {
 }
 
 export default Projects;
+
