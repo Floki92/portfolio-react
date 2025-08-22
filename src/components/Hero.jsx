@@ -18,7 +18,7 @@ function Hero() {
           <div className="mb-6 sm:mb-8 relative">
             <div className="w-24 h-24 sm:w-32 sm:h-32 mx-auto rounded-full bg-gradient-to-r from-purple-400 to-pink-400 p-1 animate-spin-slow">
               <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center">
-                <img src="images/logo.png" className="w-full h-full rounded-full" alt="Saad"/>
+                <img src={`${process.env.PUBLIC_URL}/images/logo.png`} className="w-full h-full rounded-full" alt="Saad"/>
               </div>
             </div>
           </div>
@@ -103,4 +103,5 @@ function Hero() {
 }
 
 export default Hero;
+
 
