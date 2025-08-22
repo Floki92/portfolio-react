@@ -17,7 +17,7 @@ function About() {
             <div className="relative">
               <div className="relative z-10 rounded-lg overflow-hidden shadow-xl transform hover:scale-105 transition-transform duration-300">
                 <img 
-                  src="./images/profile.png" 
+                  src="images/profile.png" 
                   alt="Saad's profile" 
                   className="w-full h-auto"
                 />
@@ -60,3 +60,4 @@ function About() {
 }
 
 export default About;
+
