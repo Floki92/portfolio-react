@@ -8,7 +8,7 @@ function Testimonials() {
       id: 1,
       name: "Alex Johnson",
       role: "Product Manager at TechCorp",
-      image: "./images/alex.jpg",
+      image: "images/alex.jpg",
       content: "Saad is an exceptional front-end developer who consistently delivers high-quality work. His attention to detail and ability to transform designs into pixel-perfect websites is remarkable.",
       rating: 5,
       company: "TechCorp",
@@ -17,7 +17,7 @@ function Testimonials() {
       id: 2,
       name: "Sarah Williams",
       role: "UI/UX Designer",
-      image: "./images/sarah.jpg",
+      image: "images/sarah.jpg",
       content: "Working with Saad was a fantastic experience. His understanding of modern web technologies and commitment to creating seamless user experiences made our project a huge success.",
       rating: 5,
       company: "DesignHub",
@@ -26,7 +26,7 @@ function Testimonials() {
       id: 3,
       name: "Michael Chen",
       role: "Startup Founder",
-      image: "./images/michael.jpg",
+      image: "images/michael.jpg",
       content: "Saad took our startup's vision and turned it into reality. His technical expertise and problem-solving skills were invaluable. I highly recommend him for any web development project.",
       rating: 5,
       company: "InnovateTech",
@@ -35,7 +35,7 @@ function Testimonials() {
       id: 4,
       name: "Emily Davis",
       role: "Marketing Specialist",
-      image: "./images/emily.jpg",
+      image: "images/emily.jpg",
       content: "Saad's attention to detail and ability to create visually appealing websites are second to none. He worked closely with us to understand our brand and deliver a website that exceeded our expectations.",
       rating: 5,
       company: "BrandX",
@@ -145,3 +145,4 @@ function Testimonials() {
 }
 
 export default Testimonials;
+
